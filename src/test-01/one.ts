@@ -1,5 +1,6 @@
+const sentense = "Hello my friends";
 
-export function splitIntoWords(sentense: string) {
+export function splitIntoWords() {
     return sentense.split(" ");
 }
 
